@@ -71,11 +71,10 @@ $ npm start
 
 <div align="center">
 <a href="https://github.com/User-Benjamim">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/17955358?s=460&u=ba042b3e183a3e36de57089bb11196ef3985de26&v=4" width="100px;" alt="Foto de Perfil Jonas Benjamim"/>
  <br />
  <sub><b>Jonas Benjamim</b></sub></a>
 
-Feito por Jonas Benjamim 👋🏽 Entre em contato!
+Feito por Jonas Benjamim
 
 
 </div>
